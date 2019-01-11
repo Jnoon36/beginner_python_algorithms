@@ -1,8 +1,10 @@
 # Selection sort algorithm for arranging a list in a certain order
 
+# If you do not need user input, then comment out line 5 and replace line 7 with your own list.
+
 numbers = input('List some numbers separated by commas ')
 
-l = [int(n) for n in numbers.split(',') ]
+l = [float(n) for n in numbers.split(',') ]
 
 for i in range(len(l)):
     for j in range(len(l) - 1):
