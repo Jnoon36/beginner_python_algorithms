@@ -1,4 +1,4 @@
-# Selection sort algorithm for arranging a list in a certain order
+# Algorithm for arranging a list in ascending or descending order
 
 # If you do not need user input, then comment out line 5 and replace line 7 with your own list.
 
