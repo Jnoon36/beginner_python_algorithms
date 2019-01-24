@@ -1,5 +1,7 @@
 """
-Here we will look at a root finding algorithm called Newton's method. This involves an initial guess at a root of a function f (that is continuous on an interval [a, b], and differentiable on the interval (a, b)) and derivatives of that function. More info can be found on wikipedia:  https://en.wikipedia.org/wiki/Newton%27s_method
+Here we will look at a root finding algorithm called Newton's method. This involves an initial guess at a root of a function f 
+(that is continuous on an interval [a, b], and differentiable on the interval (a, b)) and derivatives of that function. 
+More info can be found on wikipedia:  https://en.wikipedia.org/wiki/Newton%27s_method
 """
 
 
