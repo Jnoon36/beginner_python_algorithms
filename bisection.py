@@ -21,7 +21,7 @@ def bisection(f, a, b, tol, N):
         while n <= N:
             c = (b + a) / 2
             if abs(f(c)) < tol:
-                print('Number of iterations: ', n)
+                print('Root found. Number of iterations: ', n)
                 return c
                 break
             elif f(a) * f(c) < 0:
